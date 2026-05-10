@@ -1,7 +1,5 @@
 Pravalika Jaupula
 
-AI & Software Engineer | Full-Stack Developer | Problem Solver
-
 AI-focused Computer Science Engineer building intelligent systems using machine learning, NLP, and full-stack development.
 
 About Me
